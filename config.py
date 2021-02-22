@@ -10,6 +10,7 @@ photo_directory = '/home/pi/Pictures/Timelapse/'
 file_extension = '.png'
 start_time = 8
 end_time = 22
+s3_bucket= 'timelapse-dump'
 # Video builder
 
 frames_per_second = 5
